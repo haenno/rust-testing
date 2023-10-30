@@ -4,10 +4,11 @@ some first tests with rust
 
 ## ideas
 
-- [x] hello world
-- [x] read credentials from env file
+- [x] 1: hello world
+- [x] 2: read credentials from env file
+- [ ] 3: (wip) web api with swagger
 - [ ] orm with sqlite
-- [ ] web api with swagger
 - [ ] read mails from imap
 - [ ] containerize rust app
 - [ ] deploy to cloud (aws, azure)
+- [ ] create and consume async tasks ('workers')
