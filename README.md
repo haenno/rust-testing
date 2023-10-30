@@ -5,7 +5,7 @@ some first tests with rust
 ## ideas
 
 - [x] hello world
-- [ ] read credentials from env file
+- [x] read credentials from env file
 - [ ] orm with sqlite
 - [ ] web api with swagger
 - [ ] read mails from imap
